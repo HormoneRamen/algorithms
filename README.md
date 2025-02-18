@@ -2,7 +2,14 @@
 Basic data structures and algorithms implemented in python for studying
 
 ## Data Structures
-- Single Linked List
+- Linked List
+  - Single
+  - Doubly
+- Stack
+- Queue
+- Tree
+- Graph
+- Hash Table
 
 ## Algorithms
 ### Sort
